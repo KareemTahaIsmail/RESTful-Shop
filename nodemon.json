@@ -1,0 +1,6 @@
+{
+    "env": {
+        "mongo_atlas_password": "node-rest-shop",
+        "JWT_KEY": "secret"
+    }
+}
